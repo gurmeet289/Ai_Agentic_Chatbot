@@ -12,8 +12,7 @@ A modular AI chatbot framework using **LangGraph**, **FastAPI**, and **Streamlit
 
 # Agentic AI Chatot Demo Video
 
-
-
+https://github.com/user-attachments/assets/d1e251a5-8f1e-47eb-9610-63d23ba5cdd8
 
 ## 📁 Project Structure
 
