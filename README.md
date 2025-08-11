@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/d1e251a5-8f1e-47eb-9610-63d23ba5cdd8
 
 ### 4. Create a .env File
 
-  # .env
+  #### .env
     GROQ_API_KEY=your-groq-api-key
     TAVILY_API_KEY=your-tavily-api-key
  
