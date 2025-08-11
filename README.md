@@ -6,7 +6,7 @@ A modular AI chatbot framework using **LangGraph**, **FastAPI**, and **Streamlit
 
 ---
 
-# Agentic AI Chatot Architecture Design Flow
+# Agentic AI Chatbot Architecture Design Flow
 
 ![Agentic_AI_Chatbot_Flow_](https://github.com/user-attachments/assets/6d777c1d-9d09-491c-815f-61dd82e885a2)
 
